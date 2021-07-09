@@ -12,9 +12,9 @@ video (because that would be annoying as frick).
 ### 🔭 Building a website rn @ https://www.fivesixfive.dev
 
 ### 📫 Get in touch
-####📧 contact@fivesixfive.dev
-####🐦 @thefivesixfive
-####🖥️ discord.gg/HkSBsHYYnP
+📧 contact@fivesixfive.dev\
+🐦 @thefivesixfive\
+🖥️ discord.gg/HkSBsHYYnP
 
 
 <!--
