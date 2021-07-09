@@ -2,12 +2,15 @@
 
 I'm Caleb "fivesixfive" North, preferrably known as a programmer who makes
 videos about programming. I try to provide entertaining content that's
-appropriate.  I enjoy playing games, drawing, and dabbling in a variety
-of other things, often poorly.
+appropriate.  I enjoy playing games, livestreaming, drawing, and dabbling in a variety
+of other things, often poorly. I'm also a Christian, and while it affects 
+every part of my life, it's not my entire personality. I'm not
+thumping my Bible in my videos (because that would be annoying as frick).
 
-I'm also a Christian, and while it affects every part of my life,
-it's not my entire personality. I'm not thumping my Bible in my
-videos (because that would be annoying as frick).
+Quick backstory: I've been programming since I was 9 on Scratch 2.
+I work heavily with Python now but have dabbled in C# in Unity when
+I made a game (https://fivesixfive.itch.io/dnm). Currently I code
+whatever, often Discord bots, for fun.
 
 ### 🔭 Building a website rn @ https://www.fivesixfive.dev
 
