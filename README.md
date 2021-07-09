@@ -14,7 +14,9 @@ video (because that would be annoying as frick).
 ### 📫 Get in touch
 📧 contact@fivesixfive.dev\
 🐦 @thefivesixfive\
-🖥️ discord.gg/HkSBsHYYnP
+🖥️ https://discord.gg/HkSBsHYYnP
+
+### 💬 Pronouns: him/he
 
 
 <!--
