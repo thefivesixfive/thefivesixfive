@@ -1,9 +1,4 @@
-### Greetings, fivesixfive here 👋
-
-# 📫 Get in touch
-📧 contact@fivesixfive.dev
-🐦 @thefivesixfive
-🖥️ discord.gg/HkSBsHYYnP
+## Greetings, fivesixfive here 👋
 
 I'm Caleb "fivesixfive" North, preferrably known as a programmer who makes
 videos about programming. I try to provide entertaining content that's
@@ -14,7 +9,12 @@ I'm also a Christian, and while it affects every part of my life,
 it's not my entire personality. I'm not thumping my Bible in every
 video (because that would be annoying as frick).
 
-# 🔭 Building a website rn @ https://www.fivesixfive.dev
+### 🔭 Building a website rn @ https://www.fivesixfive.dev
+
+### 📫 Get in touch
+📧 contact@fivesixfive.dev
+🐦 @thefivesixfive
+🖥️ discord.gg/HkSBsHYYnP
 
 
 <!--
