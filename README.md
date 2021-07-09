@@ -6,8 +6,8 @@ appropriate.  I enjoy playing games, drawing, and dabbling in a variety
 of other things, often poorly.
 
 I'm also a Christian, and while it affects every part of my life,
-it's not my entire personality. I'm not thumping my Bible in every
-video (because that would be annoying as frick).
+it's not my entire personality. I'm not thumping my Bible in my
+videos (because that would be annoying as frick).
 
 ### 🔭 Building a website rn @ https://www.fivesixfive.dev
 
