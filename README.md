@@ -12,14 +12,14 @@ I work heavily with Python now but have dabbled in C# in Unity when
 I made a game (https://fivesixfive.itch.io/dnm). Currently I code
 whatever, often Discord bots, for fun.
 
-### 🔭 Building a website rn @ https://www.fivesixfive.dev
+### https://www.fivesixfive.dev
 
 ### 📫 Get in touch
 📧 contact@fivesixfive.dev\
 🐦 @thefivesixfive\
 🖥️ https://discord.gg/HkSBsHYYnP
 
-### 💬 Pronouns: him/he
+### 💬 Pronouns: he/him
 
 
 <!--
