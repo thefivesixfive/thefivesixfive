@@ -3,7 +3,7 @@ I'm Caleb **fivesixfive** North,\
 better known as a programmer who makes videos about programming.
 
 Well, I'm not great at summarizing things, so here goes.\
-If it wasn't apparent know, I'm a programmer. I do my own\
+If it wasn't apparent by now, I'm a programmer. I do my own\
 stuff and publish videos about it on YouTube, and sometimes\
 I program stuff for others live.
 
