@@ -8,7 +8,7 @@ stuff and publish videos about it on YouTube, and sometimes\
 I program stuff for others live.
 
 I'm also a Christian, and all the content I make is\
-garunteed clean. I'm not one of _those_ Christians though.
+guaranteed clean. I'm not one of _those_ Christians though.
 
 Want something made? Request it here:\
 https://fivesixfive.dev/request
