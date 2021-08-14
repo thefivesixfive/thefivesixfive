@@ -5,7 +5,7 @@ better known as a programmer who makes videos about programming.
 Well, I'm not great at summarizing things, so here goes.\
 If it wasn't apparent know, I'm a programmer. I do my own\
 stuff and publish videos about it on YouTube, and sometimes\
-I program stuff for others live.\
+I program stuff for others live.
 
 I'm also a Christian, and all the content I make is\
 garunteed clean. I'm not one of _those_ Christians though.
