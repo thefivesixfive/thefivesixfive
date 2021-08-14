@@ -1,12 +1,18 @@
-## Greetings, fivesixfive here 👋
-I'm Caleb "fivesixfive" North, better known as a programmer who makes videos about programming.
+### Greetings, fivesixfive here 👋
+I'm Caleb **fivesixfive** North,\
+better known as a programmer who makes videos about programming.
 
-My mission is to provide clean and entertaining content to make the world a better place. I myself am a programmer, a student, and a Christian. (Not the Bible thumping kind). Enjoy my content!
+Well, I'm not great at summarizing things, so here goes.\
+If it wasn't apparent know, I'm a programmer. I do my own\
+stuff and publish videos about it on YouTube, and sometimes\
+I program stuff for others live.\
 
-My Content.\
-https://youtube.com/fivesixfive \
-https://instagram.com/thefivesixfive
+I'm also a Christian, and all the content I make is\
+garunteed clean. I'm not one of _those_ Christians though.
 
-Get in Touch\
-📧 contact@fivesixfive.dev \
-🖥️ https://discord.gg/HkSBsHYYnP
+Want something made? Request it here:\
+https://fivesixfive.dev/request
+
+My socials and contact info can be found
+on my website:\
+https://fivesixfive.dev
