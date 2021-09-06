@@ -1,6 +1,5 @@
 ### Greetings, fivesixfive here 👋
-I'm Caleb **fivesixfive** North,\
-better known as a programmer who makes videos about programming.
+Better known as a programmer who makes videos about programming.
 
 Well, I'm not great at summarizing things, so here goes.\
 If it wasn't apparent by now, I'm a programmer. I do my own\
