@@ -1,12 +1,6 @@
 ### Greetings, fivesixfive here 👋
 
-I'm stuck somewhere between making games and
-playing them, but I don't do enough of either
-to identify with it alone.
+Greetings, fivesixfive here. I'm somewhere between "developer" and "gamer", and my content is too. I'm currently making a game called Rebound while recording the development on YouTube and my various social medias. I also enjoy playing, uploading, and livestreaming Krunker.
 
-I'm also a Christian, and all the content I make is\
-guaranteed clean. I'm not one of _those_ Christians though.
-
-My socials and contact info can be found
-on my website:
+My socials, contact info, and extended bio can be found on my website:
 https://fivesixfive.dev
