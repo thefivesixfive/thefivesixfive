@@ -3,4 +3,4 @@ Greetings, fivesixfive here. I type, I click, and magic happens. Right now I'm m
 Find more about me on
 https://fivesixfive.dev
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefivesixfive&show_icons=true&locale=en&layout=compact" alt="fivesixfive" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefivesixfive&show_icons=true&locale=en&theme=dracula" alt="fivesixfive" /></p>
