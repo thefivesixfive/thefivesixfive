@@ -4,5 +4,3 @@ Find more about me on
 https://fivesixfive.dev
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefivesixfive&show_icons=true&locale=en&layout=compact" alt="fivesixfive" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=thefivesixfive&show_icons=true&locale=en" alt="fivesixfive" /></p>
