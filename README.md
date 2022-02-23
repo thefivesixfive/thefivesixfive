@@ -1,4 +1,4 @@
-Greetings, fivesixfive here. I type, I click, and magic happens. Right now I'm making a game called Rebound, and I'm also working on music whenever I can. Sometimes I livestream or upload a video or two as well.
+Right now I'm making a game called Rebound.
 
 Find more about me on
 https://fivesixfive.dev
