@@ -1,4 +1,5 @@
-Right now I'm making a game called Rebound.
+#Greetings, fivesixfive here.
+15yo developer, currently making a game.
 
 Find more about me on
 https://fivesixfive.dev
