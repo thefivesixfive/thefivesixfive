@@ -1,4 +1,1 @@
-I’m an avid programmer / game developer and hobbyist YouTuber<br>
-[fivesixfive.dev](https://fivesixfive.dev)
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefivesixfive&show_icons=true&locale=en&theme=dracula&layout=compact" alt="fivesixfive" /></p>
