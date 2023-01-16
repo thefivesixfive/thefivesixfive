@@ -4,11 +4,12 @@
 
 /about
 ├── /name
-│   └── caleb.north
+│   ├── caleb-north.txt
+│   └── fivesixfive.txt
 │
 ├── /education
-│   ├── home.school
-│   └── dual.enrollment
+│   ├── homeschool.pdf
+│   └── dual-enrollment.pdf
 │
 ├── /languages
 │   ├── /fluent
@@ -24,7 +25,7 @@
 │       └── csharp.cs
 │ 
 └── /hobbies
-    ├── programming.md
+    ├── programming.py
     ├── hanging-with-friends.mp4
     ├── gaming.exe
     ├── drawing.png
